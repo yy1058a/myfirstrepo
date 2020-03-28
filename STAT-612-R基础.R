@@ -1,4 +1,4 @@
-# class use
+# for STAT-612 class use
 8+4+12
 8*(8-4)+8
 8^2
